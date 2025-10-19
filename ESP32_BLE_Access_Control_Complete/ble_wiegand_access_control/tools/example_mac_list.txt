@@ -1,0 +1,14 @@
+# Example MAC Address List
+# Add your BLE device MAC addresses here, one per line
+# Lines starting with # are comments and will be ignored
+
+# Example devices (replace with your actual MAC addresses)
+AA:BB:CC:DD:EE:FF
+11:22:33:44:55:66
+A4:C1:38:AB:CD:EF
+
+# You can also use different formats:
+# AABBCCDDEEFF
+# AA-BB-CC-DD-EE-FF
+# aabb.ccdd.eeff
+
